@@ -1,6 +1,0 @@
-org/nwgb/wikibridge/Wiki/ArticleData.class
-org/nwgb/wikibridge/Config.class
-org/nwgb/wikibridge/Listeners/ChatListener.class
-org/nwgb/wikibridge/WikiBridge.class
-org/nwgb/wikibridge/Wiki/WikiClient.class
-org/nwgb/wikibridge/Utils/MessageFormatter.class

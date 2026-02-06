@@ -1,5 +1,0 @@
-name: WikiBridge
-version: '1.0'
-main: org.nwgb.wikibridge.WikiBridge
-api-version: '1.21'
-folia-supported: true
