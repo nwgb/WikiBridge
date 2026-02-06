@@ -1,0 +1,10 @@
+wiki-name: "Wikipedia"
+wiki-url: "https://wikipedia.org"
+api-endpoint: "/w/api.php"
+link-colours:
+  exists: "#0645AD"
+  missing: "#BA0000"
+
+max-preview-chars: 250
+missing-preview: "This article doesn't exist (yet)"
+date-format: "dd mmm yy"
